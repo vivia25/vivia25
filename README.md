@@ -1,3 +1,6 @@
+<img src= "https://media.giphy.com/media/NE9dt7eN67tpHxFzpO/giphy.gif">
+
+
 ### Hi there 👋
 
 <!--
